@@ -1,8 +1,8 @@
-#include <iostream>
+#includ
 using namespace std ;
 int main() {
 int no1=2,no2=3;
 
 cout<<"no1+no2="<<no1+no2;
-    return 0;
+   
 }
